@@ -1,0 +1,5 @@
+buat repo github.com/xxx
+tentukan dimana folder nya akan dibuat, lalu "git clone github.com/xxx"
+cd ke folder-project(nama repo)
+jika sudah cd, di terminal "npx create-next-app@latest ." (tambahkan titik agar membaca bahwa di folder tersebut adalah project nya, bukan buat folder baru lagi)
+semua opsi pilih yes
