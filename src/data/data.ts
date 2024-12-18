@@ -17,6 +17,18 @@ export const skill: ISkill[] = [
     img: "/js.jpg",
   },
   {
+    tag: "Bootstrap",
+    img: "/bootstrap.jpg",
+  },
+  {
+    tag: "React",
+    img: "/react.jpg",
+  },
+  {
+    tag: "Next JS",
+    img: "/nextjs.jpg",
+  },
+  {
     tag: "PHP",
     img: "/php.jpg",
   },
@@ -29,11 +41,19 @@ export const skill: ISkill[] = [
     img: "/nodejs.jpg",
   },
   {
-    tag: "Bootstrap",
-    img: "/bootstrap.jpg",
+    tag: "Contentful",
+    img: "/contentful.jpg",
   },
   {
-    tag: "Next JS",
-    img: "/nextjs.jpg",
+    tag: "Postman",
+    img: "/postman.jpg",
+  },
+  {
+    tag: "Discord",
+    img: "/discord.jpg",
+  },
+  {
+    tag: "Github",
+    img: "/github.jpg",
   },
 ];
