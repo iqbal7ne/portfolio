@@ -3,57 +3,57 @@ export interface ISkill {
   img: string;
 }
 
-export const skill: ISkill[] = [
+export const skills: ISkill[] = [
   {
     tag: "HTML",
-    img: "/html.jpg",
+    img: "/html.png",
   },
   {
     tag: "CSS",
-    img: "/css.jpg",
+    img: "/css.png",
   },
   {
     tag: "Javascript",
-    img: "/js.jpg",
+    img: "/js.png",
   },
   {
     tag: "Bootstrap",
-    img: "/bootstrap.jpg",
+    img: "/bootstrap.png",
   },
   {
     tag: "React",
-    img: "/react.jpg",
+    img: "/react.png",
   },
   {
     tag: "Next JS",
-    img: "/nextjs.jpg",
+    img: "/nextjs.png",
   },
   {
     tag: "PHP",
-    img: "/php.jpg",
+    img: "/php.png",
   },
   {
     tag: "mysql",
-    img: "/mysql.jpg",
+    img: "/mysql.png",
   },
   {
     tag: "Node JS",
-    img: "/nodejs.jpg",
+    img: "/nodejs.png",
   },
   {
     tag: "Contentful",
-    img: "/contentful.jpg",
+    img: "/contentful.png",
   },
   {
     tag: "Postman",
-    img: "/postman.jpg",
+    img: "/postman.png",
   },
   {
     tag: "Discord",
-    img: "/discord.jpg",
+    img: "/discord.png",
   },
   {
     tag: "Github",
-    img: "/github.jpg",
+    img: "/github.png",
   },
 ];

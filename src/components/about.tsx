@@ -16,7 +16,7 @@ export function AboutMe() {
           </h1>
         </div>
         <div className="card lg:card-side bg-white shadow-xl w-10/12">
-          <figure className="flex relative w-12/12 h-[300px] lg:w-3/12">
+          <figure className="flex relative w-12/12 h-[300px] lg:h-[400px] lg:w-3/12">
             <Image src={"/about.jpg"} fill alt="about" className="abs" />
           </figure>
           <div className="card-body text-left">

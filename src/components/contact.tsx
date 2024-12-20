@@ -18,8 +18,8 @@ export function Contact() {
         </div>
 
         <div className="avatar">
-          <div className="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2">
-            <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+          <div className="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2 relative">
+            <Image src={"/myimage.jpg"} fill alt="contact" />
           </div>
         </div>
         <h1 className="pt-4">you can reach me by using these social media</h1>
